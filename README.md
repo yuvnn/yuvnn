@@ -1,6 +1,6 @@
 ### yuvnn here !
 
-- 🌟 Chungbuk National Univ, Student
+- Chungbuk National Univ, Student
 
 
 ### Tech Stack
